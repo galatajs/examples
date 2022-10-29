@@ -2,9 +2,9 @@
 <br>
 <img src="https://avatars.githubusercontent.com/u/108695351?s=200&v=4" width="128" height="128">
 </p>
-<h3 align="center">@istanbul/examples http-ts</h3>
+<h3 align="center">@istanbul/examples http-es6</h3>
 <p align="center">
-  Http and TypeScript example of <code>istanbul</code> framework. 
+  Http and EcmaScript example of <code>istanbul</code> framework. 
 </p>
 
 ## Install
