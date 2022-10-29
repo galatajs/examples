@@ -1,0 +1,29 @@
+{
+  "name": "es6-http",
+  "version": "1.0.0",
+  "description": "a http example with ecmascript",
+  "main": "./dist/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istanbulnode/examples.git"
+  },
+  "keywords": [
+    "http",
+    "typescript",
+    "istanbuljs"
+  ],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/istanbulnode/examples/issues"
+  },
+  "homepage": "https://github.com/istanbulnode/examples#readme",
+  "dependencies": {
+    "@istanbul/app": "^0.0.33",
+    "@istanbul/http": "^0.0.24"
+  }
+}
