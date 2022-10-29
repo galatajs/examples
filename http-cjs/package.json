@@ -1,0 +1,28 @@
+{
+  "name": "cjs-http",
+  "version": "1.0.0",
+  "description": "a http example with commonjs",
+  "main": "./main.js",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istanbulnode/examples.git"
+  },
+  "keywords": [
+    "http",
+    "commonjs",
+    "istanbuljs"
+  ],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/istanbulnode/examples/issues"
+  },
+  "homepage": "https://github.com/istanbulnode/examples#readme",
+  "dependencies": {
+    "@istanbul/app": "^0.0.33",
+    "@istanbul/http": "^0.0.24"
+  }
+}
