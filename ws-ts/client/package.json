@@ -1,0 +1,17 @@
+{
+  "name": "socketio-client",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --port 4173 --open",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.5.1",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^3.1.2"
+  }
+}
