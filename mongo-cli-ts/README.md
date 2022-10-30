@@ -7,6 +7,10 @@
   MongoDB, Cli and TypeScript example of <code>istanbul</code> framework. 
 </p>
 
+## Prerequisites
+
+You must have MongoDB and NodeJS installed on your computer
+
 ## Install
 
 ```bash
