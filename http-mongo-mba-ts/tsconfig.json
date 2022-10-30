@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["es7", "es2016"],
+    "target": "ES2015",
+    "declaration": true,
+    "module": "commonjs",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": true,
+    "sourceMap": true
+  }
+}
