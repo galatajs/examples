@@ -1,10 +1,10 @@
-import { App, createApp } from "@istanbul/app";
+import { App, createApp } from "@galatajs/app";
 import {
   createHttpServer,
   createRouter,
   Request,
   Response,
-} from "@istanbul/http";
+} from "@galatajs/http";
 
 const app: App = createApp();
 const server = createHttpServer();

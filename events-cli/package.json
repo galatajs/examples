@@ -10,22 +10,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/istanbulnode/examples.git"
+    "url": "git+https://github.com/galatajs/examples.git"
   },
   "keywords": [
     "events",
     "cli",
     "typescript",
-    "istanbuljs"
+    "galatajs"
   ],
   "author": "Sami Salih İBRAHİMBAŞ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/istanbulnode/examples/issues"
+    "url": "https://github.com/galatajs/examples/issues"
   },
-  "homepage": "https://github.com/istanbulnode/examples#readme",
+  "homepage": "https://github.com/galatajs/examples#readme",
   "dependencies": {
-    "@istanbul/events": "^0.0.7"
+    "@galatajs/events": "^0.1.1"
   },
   "devDependencies": {
     "@types/node": "^18.11.7",

@@ -1,5 +1,5 @@
-import { createModule, Module } from "@istanbul/app";
-import { registerCollection } from "@istanbul/mongodb";
+import { createModule, Module } from "@galatajs/app";
+import { registerCollection } from "@galatajs/mongodb";
 import { BlogMapper } from "./blog.mapper";
 import { BlogRepository } from "./blog.repository";
 import { BlogRouter } from "./blog.router";

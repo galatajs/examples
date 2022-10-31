@@ -1,4 +1,4 @@
-import { createModule, Module } from "@istanbul/app";
+import { createModule, Module } from "@galatajs/app";
 import { userModule } from "../user/user.module";
 import { CliService } from "./cli.service";
 

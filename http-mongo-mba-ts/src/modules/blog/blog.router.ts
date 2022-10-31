@@ -1,5 +1,5 @@
-import { OnAppStarted } from "@istanbul/app";
-import { createRouter, Request, Response } from "@istanbul/http";
+import { OnAppStarted } from "@galatajs/app";
+import { createRouter, Request, Response } from "@galatajs/http";
 import { BlogModel } from "./blog.entity";
 import { BlogService } from "./blog.service";
 

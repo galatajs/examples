@@ -1,5 +1,5 @@
-import { createApp, App } from "@istanbul/app";
-import { createWsApp, WsApp, Socket, Request, Response } from "@istanbul/ws";
+import { createApp, App } from "@galatajs/app";
+import { createWsApp, WsApp, Socket, Request, Response } from "@galatajs/ws";
 
 const app: App = createApp();
 const ws: WsApp = createWsApp();

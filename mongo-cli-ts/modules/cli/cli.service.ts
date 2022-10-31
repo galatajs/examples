@@ -1,4 +1,4 @@
-import { OnAppStarted } from "@istanbul/app";
+import { OnAppStarted } from "@galatajs/app";
 import { UserService } from "../user/user.service";
 import * as readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";

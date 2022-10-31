@@ -2,7 +2,7 @@
 <br>
 <img src="https://avatars.githubusercontent.com/u/108695351?s=200&v=4" width="128" height="128">
 </p>
-<h3 align="center">@istanbul/examples http-mongo-mba-ts</h3>
+<h3 align="center">@galatajs/examples http-mongo-mba-ts</h3>
 <p align="center">
   Http, MongoDB, Module Based Architecture and TypeScript example of <code>istanbul</code> framework. 
 </p>

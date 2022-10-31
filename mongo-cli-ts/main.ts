@@ -1,5 +1,5 @@
-import { createApp } from "@istanbul/app";
-import { createMongodbApp } from "@istanbul/mongodb";
+import { createApp } from "@galatajs/app";
+import { createMongodbApp } from "@galatajs/mongodb";
 import { mainModule } from "./modules/main.module";
 
 const app = createApp(mainModule);

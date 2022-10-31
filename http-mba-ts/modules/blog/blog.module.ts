@@ -1,4 +1,4 @@
-import { createModule, Module } from "@istanbul/app";
+import { createModule, Module } from "@galatajs/app";
 import { BlogRepository } from "./blog.repository";
 import { BlogRouter } from "./blog.router";
 import { BlogService } from "./blog.service";

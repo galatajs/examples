@@ -1,5 +1,5 @@
-import { createApp } from "@istanbul/app";
-import { createHttpServer, createRouter } from "@istanbul/http";
+import { createApp } from "@galatajs/app";
+import { createHttpServer, createRouter } from "@galatajs/http";
 
 const app = createApp();
 const server = createHttpServer();

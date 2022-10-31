@@ -1,5 +1,5 @@
-import { App, createApp } from "@istanbul/app";
-import { createHttpServer } from "@istanbul/http";
+import { App, createApp } from "@galatajs/app";
+import { createHttpServer } from "@galatajs/http";
 import { mainModule } from "./modules/main.module";
 
 const app: App = createApp(mainModule);

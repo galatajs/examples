@@ -1,5 +1,5 @@
-import { createModule, Module } from "@istanbul/app";
-import { registerCollection } from "@istanbul/mongodb";
+import { createModule, Module } from "@galatajs/app";
+import { registerCollection } from "@galatajs/mongodb";
 import { UserRepository } from "./user.repository";
 import { UserService } from "./user.service";
 

@@ -1,10 +1,9 @@
 {
-  "name": "@istanbul/examples",
-  "version": "0.0.1",
-  "description": "Examples for IstanbulJS",
-  "homepage": "https://github.com/istanbulnode/examples#readme",
+  "name": "@galatajs/examples",
+  "version": "0.1.1",
+  "description": "Examples for galatajs",
+  "homepage": "https://github.com/galatajs/examples#readme",
   "keywords": [
-    "istanbuljs",
     "typescript",
     "commonjs",
     "es6",
@@ -14,6 +13,6 @@
   "author": "Sami Salih İBRAHİMBAŞ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/istanbulnode/examples/issues"
+    "url": "https://github.com/galatajs/examples/issues"
   }
 }

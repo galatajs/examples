@@ -1,6 +1,6 @@
-import { createMongodbApp } from "@istanbul/mongodb";
-import { App, createApp } from "@istanbul/app";
-import { createHttpServer } from "@istanbul/http";
+import { createMongodbApp } from "@galatajs/mongodb";
+import { App, createApp } from "@galatajs/app";
+import { createHttpServer } from "@galatajs/http";
 import { mainModule } from "./src/modules/main.module";
 
 const app: App = createApp(mainModule);

@@ -10,23 +10,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/istanbulnode/examples.git"
+    "url": "git+https://github.com/galatajs/examples.git"
   },
   "keywords": [
     "mongodb",
     "cli",
     "typescript",
-    "istanbuljs"
+    "galatajs"
   ],
   "author": "Sami Salih İBRAHİMBAŞ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/istanbulnode/examples/issues"
+    "url": "https://github.com/galatajs/examples/issues"
   },
-  "homepage": "https://github.com/istanbulnode/examples#readme",
+  "homepage": "https://github.com/galatajs/examples#readme",
   "dependencies": {
-    "@istanbul/app": "^0.0.33",
-    "@istanbul/mongodb": "^0.0.6",
+    "@galatajs/app": "^0.1.1",
+    "@galatajs/mongodb": "^0.1.1",
     "mongodb": "^4.11.0"
   },
   "devDependencies": {

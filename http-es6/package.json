@@ -9,21 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/istanbulnode/examples.git"
+    "url": "git+https://github.com/galatajs/examples.git"
   },
   "keywords": [
     "http",
     "typescript",
-    "istanbuljs"
+    "galatajs"
   ],
   "author": "Sami Salih İBRAHİMBAŞ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/istanbulnode/examples/issues"
+    "url": "https://github.com/galatajs/examples/issues"
   },
-  "homepage": "https://github.com/istanbulnode/examples#readme",
+  "homepage": "https://github.com/galatajs/examples#readme",
   "dependencies": {
-    "@istanbul/app": "^0.0.33",
-    "@istanbul/http": "^0.0.24"
+    "@galatajs/app": "^0.1.1",
+    "@galatajs/http": "^0.1.1"
   }
 }
